@@ -1,6 +1,6 @@
 ![Header](https://github.com/qvntz/qvntz/blob/main/assets/glitch_2021-3-2_13-29-29.jpg)
 
-##I'm a beginner Software Engeneer
+##I'm a beginner Software Engineer
 
 ##Second-year student
 
@@ -19,3 +19,4 @@ Follow me
 
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/matthew01)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/qvntz)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=27A0D9))](https://discord.gg/qvntz#3551)
