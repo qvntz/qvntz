@@ -1,12 +1,10 @@
 ![Header](https://github.com/qvntz/qvntz/blob/main/assets/glitch_2021-3-2_13-29-29.jpg)
 
-##I'm a beginner Software Engineer
-
-##Second-year student
-
-##I'm studying in the direction of applied mathematics and computer science.
-
-##Winner of the Cryptography Olympiad.
+## A few about me:
+1) I'm a beginner Software Engineer
+2) Second-year student
+3) I'm studying in the direction of applied mathematics and computer science
+4) Winner of the Cryptography Olympiad
 
 
 Languages
