@@ -1,4 +1,4 @@
-![Header](https://github.com/qvntz/qvntz/blob/main/assets/glitch_2021-3-2_13-29-29.jpg)
+![Header](https://github.com/qvntz/qvntz/blob/main/assets/Frame_1_5.png)
 
 ## A few about me:
 1) I'm a beginner Software Engineer
