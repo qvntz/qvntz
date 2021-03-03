@@ -1,4 +1,4 @@
-![Header](https://github.com/qvntz/qvntz/blob/main/assets/Frame_1_5.png)
+![Header](https://github.com/qvntz/qvntz/blob/main/assets/Frame_1_6.png)
 
 ## A few about me:
 1) I'm a beginner Software Engineer
