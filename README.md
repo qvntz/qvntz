@@ -2,7 +2,7 @@
 
 ## A few about me:
 1) I'm a beginner Software Engineer
-2) Third-year student
+2) 2nd year Master's Degree ITMO
 3) I'm studying in the direction of software for high-load systems (and done applied mathematics and computer science)
 4) Winner of the Cryptography Olympiad
 
